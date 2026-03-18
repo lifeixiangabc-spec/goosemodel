@@ -21,7 +21,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/goose-body-measurement.git
+git clone https://github.com/lifeixiangabc-spaces/goose-body-measurement.git
 cd goose-body-measurement
 
 # 创建虚拟环境
