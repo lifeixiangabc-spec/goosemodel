@@ -1,6 +1,6 @@
 # 多视角鹅体尺测量模型 (Multi-View Goose Body Measurement)
 
-基于 Transformer 架构的多视角图像融合模型，用于预测鹅的体尺测量值。
+基于 Transformer 架构的多视角图像融合模型，用于预测鹅的体尺测量值。缺少一些推理文件可联系我来补充
 
 ## 特性
 
