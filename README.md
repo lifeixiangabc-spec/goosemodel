@@ -186,7 +186,7 @@ regressor = nn.Sequential(
 #### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/goose-body-measurement.git
+git clone https://github.com/lifeixiang—spec/goose-body-measurement.git
 cd goose-body-measurement
 ```
 
